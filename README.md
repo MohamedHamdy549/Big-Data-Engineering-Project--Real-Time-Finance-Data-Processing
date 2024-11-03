@@ -368,7 +368,7 @@ Set up InfluxDB Cloud to store processed data from Spark. Follow the [InfluxDB C
 - API Token
 - API Endpoint
 
-![image-20241103230625806](C:\Users\Mohamed-Hamdy\AppData\Roaming\Typora\typora-user-images\image-20241103230625806.png)
+![image-20241103230625806](influxdb.png)
 
 ### 6. Configure Grafana Cloud
 
@@ -380,7 +380,7 @@ Sign up on Grafana Cloud, create a dashboard, and add InfluxDB as a data source:
    - **Bucket**: InfluxDB bucket name
    - **Token**: InfluxDB API token
    
-   ![image-20241103230529904](C:\Users\Mohamed-Hamdy\AppData\Roaming\Typora\typora-user-images\image-20241103230529904.png)
+   ![image-20241103230529904](grafana.png)
 
 ---
 
