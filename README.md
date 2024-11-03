@@ -14,7 +14,7 @@ This project demonstrates a data engineering pipeline designed to collect, proce
 4. **Storage in Cloud**: Processed data is stored in InfluxDB on the cloud for analytics.
 5. **Analysis & Visualization**: Grafana Cloud visualizes the stored data, creating real-time insights and dashboards for monitoring transaction metrics and trends.
 
-![stream](E:\NTI 4M - Big data\tec\BigData\Tasks\8\stream.jpg)
+![stream](stream.jpg)
 
 ## Project Architecture
 
