@@ -368,7 +368,7 @@ Set up InfluxDB Cloud to store processed data from Spark. Follow the [InfluxDB C
 - API Token
 - API Endpoint
 
-![image-20241103230625806](influxdb.png)
+![image-20241103230625806](influxDB.png)
 
 ### 6. Configure Grafana Cloud
 
